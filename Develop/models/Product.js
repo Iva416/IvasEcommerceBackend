@@ -41,6 +41,7 @@ Product.init(
         key: 'Id', 
       }
     },
+  },
   {
     sequelize,
     timestamps: false,
